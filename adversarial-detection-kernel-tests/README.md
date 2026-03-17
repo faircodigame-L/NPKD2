@@ -12,7 +12,8 @@ Lightweight adversarial detection using NPKD2_R and NPKD2_L : Pairwise kernel de
 - FGSM
 - PGD
 - CW
-
+##
+- Note: NPKD2_R refered as RBF and NPKD2_L referred as Lplacian in the code snippet 
 ## Run
 pip install -r requirements.txt
 python scripts/run_all_experiments.py
