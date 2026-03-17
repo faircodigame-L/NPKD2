@@ -1,7 +1,7 @@
-# Adversarial Detection using Kernel-Based Statistical Tests
+# Adversarial poisoning attack Detection using Pairwise Kernel Deviation-Based non-parametric statistical tests
 
 ## Overview
-Lightweight adversarial detection using RBF and Laplacian kernel-based statistical tests.
+Lightweight adversarial detection using NPKD2_R and NPKD2_L : Pairwise kernel deviation-based statistical tests.
 
 ## Datasets
 - MNIST
